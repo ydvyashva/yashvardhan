@@ -1,4 +1,5 @@
-<h1 align="center">🚀 Hi, I'm Yashvardhan Yadav 👋</h1>
+# 🚀 Hi, I'm Yashvardhan Yadav 👋
+
 <h3 align="center">Frontend Developer • AI Explorer • Tech Innovator</h3>
 
 <p align="center">
@@ -10,8 +11,8 @@
 ## 👨‍💻 About Me
 
 - 💻 Passionate **Frontend Developer** crafting clean & user-friendly web interfaces  
-- 🤖 Interested in **AI-powered applications** and smart automation  
-- 🌱 Currently learning **AI integration, API handling, UI animations, and React ecosystem**  
+- 🤖 Skilled in **AI-powered applications** and automation  
+- 🌱 Currently learning **AI integration, API handling, UI animations, and advanced React ecosystem**  
 - 🎯 Goal: **Build modern, intelligent & impactful digital solutions**
 
 ---
@@ -32,16 +33,14 @@
 
 ---
 
-## 🛠️ Tech Stack (Updated to Match Your Projects)
+## 🛠️ Tech Stack
 
-### 🤖 AI & ML (For AI Attendance System + Book Recommender System)
+### 🤖 AI & ML
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,pytorch,sklearn" />
 </p>
 
-### 🌐 Frontend Development (For Restaurant Web Page)
+### 🌐 Frontend Development
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </p>
@@ -53,26 +52,19 @@
 
 ---
 
-## 📁 Featured Projects (Updated)
+## 📁 Featured Projects
 
 ### 🔹 **Smart Curriculum System (AI–Based Attendance Checker)**
-- Built using **Python, OpenCV, Face Recognition Models, and Machine Learning**
-- Detects student faces and marks attendance automatically  
-- Designed for **accuracy, automation & real-time face processing**
-
----
+- Tech: **Python, OpenCV, Face Recognition, ML Models**
+- Fully automated, real-time student attendance system
 
 ### 🔹 **AI-Integrated Book Recommendation System**
-- Recommends books based on **user preferences, similarity algorithms & ML models**  
-- Tech used: **Python, Scikit-Learn, Pandas, Recommendation Algorithms**  
-- Helps users discover new books intelligently
-
----
+- Uses **ML, similarity algorithms, data processing**
+- Helps users discover books based on personalized preferences
 
 ### 🔹 **Frontend Restaurant Web Page**
-- Fully responsive UI using **HTML, CSS, JavaScript, and React**  
-- Includes menu showcase, animations, smooth scrolling & modern layout  
-- Focus on a **clean, aesthetic & user-friendly design**
+- Built with **React, HTML, CSS, JS**
+- Fully responsive with animations and smooth UI
 
 ---
 
@@ -86,16 +78,16 @@
 
 ---
 
-## 📊 GitHub Stats  
-*(Send me your GitHub username and I will update this section too!)*
+## 📊 GitHub Stats 
+*(Send me your GitHub username to update this section!)*
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hritikverma018&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hritikverma018&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ydvyashva&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ydvyashva&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritikverma018&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydvyashva&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -103,13 +95,12 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hritikverma018&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ydvyashva&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 ## ✨ Quote
-
 > "Code with logic, design with heart, and build with purpose."
 
 ---
