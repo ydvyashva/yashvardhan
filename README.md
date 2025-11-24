@@ -78,16 +78,21 @@
 
 ---
 
-## 📊 GitHub Stats 
-*(Send me your GitHub username to update this section!)*
+## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ydvyashva&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ydvyashva&theme=tokyonight" />
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api?username=ydvyashva&show_icons=true&theme=tokyonight" 
+  />
+  <img width="48%" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=ydvyashva&theme=tokyonight" 
+  />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydvyashva&layout=compact&theme=tokyonight" />
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydvyashva&layout=compact&theme=tokyonight" 
+  />
 </p>
 
 ---
@@ -95,14 +100,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ydvyashva&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img 
+       src="https://github-profile-trophy.vercel.app/?username=ydvyashva&theme=tokyonight&no-frame=true&row=1&column=6" 
+  />
 </p>
-
----
-
-## ✨ Quote
-> "Code with logic, design with heart, and build with purpose."
-
----
-
-⭐ **If you like my work, consider starring my repositories!**
